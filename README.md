@@ -1,5 +1,5 @@
 # NAS based on hierarchical exploration reinforcement learning 
-This is the official source code repository of the NAS framework based on hierarchical exploration reinforcement learning.
+This is the official source code repository of "A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework".
 
 This framework is used to seek for high-performance neural networks. You can directly run the "new2QNN_main.py" file. We use multiple sEMG signals as the data_source and classify the fatigue states. You can change it to your own datasets.
 
