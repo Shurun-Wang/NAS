@@ -5,11 +5,13 @@ This framework is used to seek for high-performance neural networks. You can dir
 
 If our work is helpful to you, please **Star** it and kindly **Cite** our paper as:  
 
-    @article{wang2021novel,
-      title={A novel approach to detecting muscle fatigue based on sEMG by using neural architecture search framework},
+    @ARTICLE{WangNovel,
       author={Wang, Shurun and Tang, Hao and Wang, Bin and Mo, Jia},
-      journal={IEEE Transactions on Neural Networks and Learning Systems},
-      year={2021},
-      publisher={IEEE}
-    }
+      journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+      title={A Novel Approach to Detecting Muscle Fatigue Based on sEMG by Using Neural Architecture Search Framework}, 
+      year={2023},
+      volume={34},
+      number={8},
+      pages={4932-4943},
+      doi={10.1109/TNNLS.2021.3124330}}
 
