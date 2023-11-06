@@ -14,4 +14,5 @@ If our work is helpful to you, please **Star** it and kindly **Cite** our paper 
       number={8},
       pages={4932-4943},
       doi={10.1109/TNNLS.2021.3124330}}
-
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Shurun-Wang/NAS&label=visitors&countColor=%232ccce4&style=plastic) 
